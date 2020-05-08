@@ -1,0 +1,22 @@
+#background-image-custom {
+    opacity: 0.9;
+    border-bottom: 5px solid black;
+}
+
+#name-title {
+    color: #E50F27;
+    text-shadow: -2px 0 black, 0 2px black, 2px 0 black, 0 -2px black;
+}
+
+#mce-EMAIL {
+    border: 2px solid black;
+    border-radius: 1px;
+}
+
+#columns-custom-1 {
+    background-color: rgba(229, 15, 40, 0.15);
+}
+
+#columns-custom {
+    background-color: rgba(229, 15, 40, 0.25);
+}
